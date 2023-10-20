@@ -1,0 +1,714 @@
+.checkout-child {
+  top: 650px;
+  left: 100px;
+  border-radius: var(--br-7xs);
+  width: 810px;
+  height: 576px;
+}
+.checkout-child,
+.checkout-inner,
+.checkout-item {
+  position: absolute;
+  background-color: var(--color-white);
+}
+.checkout-item {
+  top: 1256px;
+  left: 100px;
+  border-radius: var(--br-7xs);
+  width: 810px;
+  height: 423px;
+}
+.checkout-inner {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 68px;
+}
+.bxs-plane-alt-1-icon4 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.my-dream-place6 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.bxs-plane-alt-1-parent1 {
+  position: absolute;
+  top: 22px;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.ellipse-div {
+  position: absolute;
+  top: 24px;
+  left: 1296px;
+  border-radius: 50%;
+  background-color: var(--gray-4);
+  width: 44px;
+  height: 44px;
+}
+.notification-1-icon1 {
+  position: absolute;
+  top: 38px;
+  left: 1250px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.secure-your-reservation {
+  position: absolute;
+  top: 128px;
+  left: 100px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 820px;
+  height: 32px;
+}
+.checkout-child1 {
+  position: absolute;
+  top: 190px;
+  left: 100px;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-5);
+  width: 1240px;
+  height: 72px;
+}
+.check-the-latest-container2 {
+  position: absolute;
+  top: 215px;
+  left: 175px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  color: var(--gray-1);
+}
+.danger-1-icon2 {
+  position: absolute;
+  top: 210px;
+  left: 124px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.checkout-child2 {
+  position: absolute;
+  top: 292px;
+  left: 100px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  width: 810px;
+  height: 328px;
+}
+.checkout-child3,
+.checkout-child4,
+.checkout-child5 {
+  position: absolute;
+  top: 292px;
+  left: 100px;
+  border-radius: var(--br-7xs) var(--br-7xs) 0 0;
+  background-color: var(--color-whitesmoke-300);
+  width: 810px;
+  height: 60px;
+}
+.checkout-child4,
+.checkout-child5 {
+  top: 650px;
+}
+.checkout-child5 {
+  top: 1256px;
+}
+.checkout-child6,
+.checkout-child7 {
+  position: absolute;
+  top: 292px;
+  left: 940px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  width: 400px;
+  height: 400px;
+}
+.checkout-child7 {
+  border-radius: var(--br-7xs) var(--br-7xs) 0 0;
+  background-color: var(--gray-4);
+  height: 180px;
+}
+.room-1 {
+  position: absolute;
+  top: 310px;
+  left: 164px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  line-height: 24px;
+  font-weight: 500;
+  color: var(--gray-1);
+}
+.security-user-1-icon {
+  position: absolute;
+  top: 308px;
+  left: 120px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.payment-options {
+  top: 668px;
+  left: 164px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--gray-1);
+}
+.adults-1-double,
+.important-information-about,
+.payment-options {
+  position: absolute;
+  letter-spacing: 0.01em;
+  line-height: 24px;
+}
+.important-information-about {
+  top: 1274px;
+  left: 124px;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  color: var(--gray-1);
+}
+.adults-1-double {
+  top: 310px;
+  left: 241px;
+  font-size: var(--font-size-base);
+  color: var(--gray-2);
+}
+.non-refundable1 {
+  color: var(--red);
+}
+.check-in-sunday1,
+.non-refundable1 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 20px;
+}
+.non-refundable-group {
+  position: absolute;
+  top: 568px;
+  left: 960px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  color: var(--gray-2);
+}
+.email-address {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+}
+.email-address-container,
+.email-address-frame,
+.email-address-wrapper,
+.email-address-wrapper1,
+.email-address-wrapper2 {
+  position: absolute;
+  top: 408px;
+  left: 132px;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-6);
+  width: 240px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+  color: var(--gray-6);
+}
+.email-address-container,
+.email-address-frame,
+.email-address-wrapper1,
+.email-address-wrapper2 {
+  top: 880px;
+  width: 500px;
+}
+.email-address-frame,
+.email-address-wrapper1,
+.email-address-wrapper2 {
+  top: 968px;
+}
+.email-address-wrapper1,
+.email-address-wrapper2 {
+  top: 1142px;
+  width: 240px;
+}
+.email-address-wrapper2 {
+  left: 392px;
+}
+.image-5-icon {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+}
+.arrow-down-1-icon,
+.div2 {
+  position: relative;
+  flex-shrink: 0;
+}
+.div2 {
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 60px;
+  height: 22px;
+}
+.arrow-down-1-icon {
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+}
+.image-5-parent {
+  position: absolute;
+  top: 496px;
+  left: 132px;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-6);
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  font-size: var(--font-size-mini);
+  color: var(--gray-1);
+}
+.month {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  height: 22px;
+}
+.email-address-wrapper3,
+.email-address-wrapper4,
+.month-parent,
+.year-parent {
+  position: absolute;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-6);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+}
+.month-parent {
+  top: 1056px;
+  left: 132px;
+  width: 150px;
+  padding: var(--padding-3xs) var(--padding-xs);
+  gap: var(--gap-3xs);
+  color: var(--gray-3);
+}
+.email-address-wrapper3,
+.email-address-wrapper4,
+.year-parent {
+  left: 294px;
+}
+.year-parent {
+  top: 1056px;
+  width: 150px;
+  padding: var(--padding-3xs) var(--padding-xs);
+  gap: var(--gap-3xs);
+  color: var(--gray-3);
+}
+.email-address-wrapper3,
+.email-address-wrapper4 {
+  top: 496px;
+  width: 338px;
+  padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+  color: var(--gray-6);
+}
+.email-address-wrapper4 {
+  top: 408px;
+  left: 392px;
+  width: 240px;
+}
+.first-name,
+.name-on-card {
+  position: absolute;
+  top: 384px;
+  left: 132px;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.name-on-card {
+  top: 856px;
+}
+.billing-zip-code,
+.debitcredit-card-number,
+.expiration-date,
+.last-name,
+.mobile-number,
+.security-code {
+  position: absolute;
+  top: 944px;
+  left: 132px;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  font-weight: 500;
+}
+.billing-zip-code,
+.expiration-date,
+.last-name,
+.mobile-number,
+.security-code {
+  top: 1118px;
+}
+.billing-zip-code,
+.expiration-date,
+.last-name,
+.mobile-number {
+  left: 392px;
+}
+.expiration-date,
+.last-name,
+.mobile-number {
+  top: 472px;
+  left: 132px;
+}
+.expiration-date,
+.last-name {
+  top: 1032px;
+}
+.last-name {
+  top: 384px;
+  left: 392px;
+}
+.checkout-child8,
+.receive-text-alerts {
+  position: absolute;
+  top: 560px;
+  height: 20px;
+}
+.checkout-child8 {
+  left: 132px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--gray-4);
+  box-sizing: border-box;
+  width: 20px;
+}
+.receive-text-alerts {
+  left: 160px;
+  letter-spacing: 0.02em;
+  color: var(--gray-1);
+  display: flex;
+  align-items: center;
+  width: 223px;
+}
+.card-tick-1-icon {
+  position: absolute;
+  top: 666px;
+  left: 120px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.checkout-child9 {
+  position: absolute;
+  top: 710px;
+  left: 100px;
+  background-color: var(--color-white);
+  box-shadow: 0 1px 0#e0e0e0;
+  width: 811px;
+  height: 48px;
+}
+.debitcredit-card {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.debitcredit-card-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-sm);
+}
+.frame-child {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--blue-1);
+  height: 3px;
+}
+.frame-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-item {
+  align-self: stretch;
+  position: relative;
+  background-color: var(--color-gray-400);
+  height: 3px;
+}
+.frame-container {
+  position: absolute;
+  top: 718px;
+  left: 132px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  color: var(--gray-1);
+}
+.frame-child1 {
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--gray-6);
+  width: 60px;
+  height: 40px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 790px;
+  left: 132px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.privacy-statement {
+  color: var(--blue-1);
+}
+.by-clicking-the-container,
+.we-use-secure {
+  position: absolute;
+  top: 1495px;
+  left: 124px;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  display: inline-block;
+  width: 762px;
+  color: var(--gray-2);
+}
+.we-use-secure {
+  top: 1624px;
+  left: 156px;
+  width: 731px;
+}
+.lock-circle-1-icon {
+  position: absolute;
+  top: 1623px;
+  left: 124px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.this-rate-is {
+  margin-bottom: 0;
+}
+.this-rate-is-non-refundable-i {
+  margin: 0;
+  padding-left: 20px;
+}
+.this-rate-is-container {
+  position: absolute;
+  top: 1348px;
+  left: 124px;
+  font-size: var(--font-inherit);
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  font-family: var(--font-inherit);
+  color: var(--gray-1);
+  display: inline-block;
+  width: 762px;
+}
+.complete-booking {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.complete-booking-wrapper {
+  position: absolute;
+  top: 1559px;
+  left: 124px;
+  border-radius: var(--br-7xs);
+  background-color: var(--blue-1);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-lg);
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.lakeside-motel-warefront2 {
+  position: absolute;
+  top: 492px;
+  left: 960px;
+  font-size: var(--font-size-lg);
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.reviews1 {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+}
+.group-item,
+.reviews-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 82px;
+  height: 20px;
+}
+.reviews-parent {
+  top: 523px;
+  left: 960px;
+  width: 214px;
+  color: var(--gray-2);
+}
+.checkout-child10 {
+  position: absolute;
+  top: 722px;
+  left: 940px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 400px;
+  height: 256px;
+}
+.price-details {
+  position: relative;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.price-details-wrapper {
+  position: absolute;
+  top: 722px;
+  left: 940px;
+  border-radius: var(--br-7xs) var(--br-7xs) 0 0;
+  background-color: var(--color-whitesmoke-300);
+  border: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-lg);
+  font-size: var(--font-size-base);
+}
+.room-x-2,
+.total {
+  position: absolute;
+  left: 958px;
+  letter-spacing: 0.01em;
+}
+.total {
+  top: 897px;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+}
+.room-x-2 {
+  top: 800px;
+}
+.div3,
+.room-x-2,
+.tax-and-service {
+  line-height: 20px;
+  color: var(--gray-2);
+}
+.tax-and-service {
+  position: absolute;
+  top: 832px;
+  left: 958px;
+  letter-spacing: 0.01em;
+}
+.div3 {
+  top: 800px;
+  left: 1267px;
+}
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  letter-spacing: 0.01em;
+  text-align: right;
+}
+.div4 {
+  top: 832px;
+  left: 1282px;
+  line-height: 20px;
+  color: var(--gray-2);
+}
+.div5 {
+  top: 892px;
+  right: 341px; 
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  color: var(--gray-1);
+}
+.use-a-coupon {
+  position: absolute;
+  top: 926px;
+  left: 958px;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  color: var(--blue-1);
+}
+.vector-icon {
+  position: absolute;
+  top: 871.5px;
+  left: 940px;
+  width: 400px;
+  height: 1px;
+}
+.checkout {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1820px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-300);
+  font-family: var(--font-sf-pro-display);
+}
+
+/* 19-10-23 */
+
+.checkout-child7 {
+  background-image: url(images/lakeviewfront10.png);
+}
+
+.complete-booking a {
+  color: #fff;
+  text-decoration: none;
+}

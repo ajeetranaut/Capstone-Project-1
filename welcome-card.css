@@ -1,0 +1,75 @@
+.welcome-to-my,
+.you-can-now {
+  position: absolute;
+  left: 24px;
+  width: 1594px;
+}
+.welcome-to-my {
+  top: 295px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 32px;
+}
+.you-can-now {
+  top: 339px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  color: var(--gray-2);
+  display: inline-block;
+}
+.get-started {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.get-started-wrapper {
+  position: absolute;
+  top: 428px;
+  left: 627px;
+  border-radius: var(--br-7xs);
+  background-color: var(--blue-1);
+  width: 352px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-lg);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.welcome-card-child {
+  position: absolute;
+  top: 50px;
+  left: 698px;
+  border-radius: var(--br-3xs);
+  background-color: var(--gray-6);
+  width: 240px;
+  height: 200px;
+}
+.welcome-card {
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 100%;
+  height: 500px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+  font-family: var(--font-sf-pro-display);
+}
+
+/* 19-10-23 */
+.welcome-card-child {
+background-image: url(images/welcome.png );
+}
+
+.get-started a {
+  color: #fff;
+  text-decoration: none;
+}

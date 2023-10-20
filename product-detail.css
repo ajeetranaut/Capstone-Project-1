@@ -1,0 +1,837 @@
+.product-detail-child {
+    position: absolute;
+    top: 568px;
+    left: -10px;
+    background-color: var(--color-white);
+    border: 1px solid var(--gray-5);
+    box-sizing: border-box;
+    width: 1460px;
+    height: 48px;
+  }
+  .overview {
+    position: relative;
+    letter-spacing: 0.02em;
+  }
+  .overview-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs) var(--padding-sm);
+  }
+  .frame-child {
+    align-self: stretch;
+    position: relative;
+    background-color: var(--blue-1);
+    height: 3px;
+  }
+  .frame-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .frame-item {
+    align-self: stretch;
+    position: relative;
+    background-color: var(--color-gray-400);
+    height: 3px;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 573px;
+    left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-sm);
+    font-size: var(--font-size-base);
+    color: var(--gray-1);
+  }
+  .about,
+  .company {
+    position: absolute;
+    left: 415px;
+    letter-spacing: 0.02em;
+  }
+  .company {
+    top: 0;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    color: var(--color-black);
+  }
+  .about {
+    top: 39px;
+  }
+  .bxs-plane-alt-1-icon {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .my-dream-place {
+    position: relative;
+    letter-spacing: 0.02em;
+    font-weight: 500;
+  }
+  .bxs-plane-alt-1-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+  }
+  .your-next-goto {
+    position: absolute;
+    top: 30px;
+    left: 28px;
+    font-size: var(--font-size-sm);
+    letter-spacing: 0.02em;
+    line-height: 140%;
+    color: var(--gray-2);
+    display: inline-block;
+    width: 197px;
+  }
+  .group-div {
+    position: absolute;
+    top: 0;
+    left: 100px;
+    width: 225px;
+    height: 70px;
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-100);
+  }
+  .jobs,
+  .newsroom {
+    position: absolute;
+    top: 66px;
+    left: 415px;
+    letter-spacing: 0.02em;
+  }
+  .newsroom {
+    top: 93px;
+  }
+  .advertising,
+  .australia,
+  .contact-us,
+  .privacy-policy,
+  .support {
+    position: absolute;
+    top: 120px;
+    left: 415px;
+    letter-spacing: 0.02em;
+  }
+  .australia,
+  .contact-us,
+  .privacy-policy,
+  .support {
+    top: 147px;
+  }
+  .australia,
+  .privacy-policy,
+  .support {
+    top: 39px;
+    left: 657px;
+  }
+  .privacy-policy,
+  .support {
+    left: 899px;
+  }
+  .support {
+    left: 1141px;
+  }
+  .cancel-your-bookings,
+  .new-zealand,
+  .terms-of-use {
+    position: absolute;
+    top: 66px;
+    left: 657px;
+    letter-spacing: 0.02em;
+  }
+  .cancel-your-bookings,
+  .terms-of-use {
+    left: 899px;
+  }
+  .cancel-your-bookings {
+    left: 1141px;
+  }
+  .acessibility,
+  .united-states-america,
+  .use-coupon {
+    position: absolute;
+    top: 93px;
+    left: 657px;
+    letter-spacing: 0.02em;
+  }
+  .acessibility,
+  .use-coupon {
+    left: 899px;
+  }
+  .use-coupon {
+    left: 1141px;
+  }
+  .greece,
+  .refund-policies,
+  .reward-system-policy {
+    position: absolute;
+    top: 120px;
+    left: 657px;
+    letter-spacing: 0.02em;
+  }
+  .refund-policies,
+  .reward-system-policy {
+    left: 899px;
+  }
+  .refund-policies {
+    left: 1141px;
+  }
+  .international-travel-documents,
+  .maldives {
+    position: absolute;
+    top: 147px;
+    left: 657px;
+    letter-spacing: 0.02em;
+  }
+  .international-travel-documents {
+    left: 1141px;
+  }
+  .explore,
+  .help,
+  .see-more,
+  .singapore,
+  .terms-and-policies {
+    position: absolute;
+    top: 174px;
+    left: 657px;
+    letter-spacing: 0.02em;
+  }
+  .explore,
+  .help,
+  .see-more,
+  .terms-and-policies {
+    top: 201px;
+    color: var(--blue-1);
+  }
+  .explore,
+  .help,
+  .terms-and-policies {
+    top: 0;
+    font-size: var(--font-size-base);
+    font-weight: 500;
+    color: var(--color-black);
+  }
+  .help,
+  .terms-and-policies {
+    left: 899px;
+  }
+  .help {
+    left: 1141px;
+  }
+  .group-child {
+    position: absolute;
+    top: 278px;
+    left: 0;
+    background-color: var(--color-whitesmoke-200);
+    width: 1440px;
+    height: 40px;
+  }
+  .copyright-1-icon {
+    position: relative;
+    width: 16px;
+    height: 16px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .my-dream-place1 {
+    position: relative;
+    line-height: 140%;
+  }
+  .copyright-1-parent {
+    position: absolute;
+    top: 288px;
+    right: 205px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-7xs);
+  }
+  .company-parent,
+  .product-detail-item {
+    position: absolute;
+    top: 2152px;
+    left: 0;
+    width: 1440px;
+    height: 318px;
+  }
+  .product-detail-item {
+    top: 0;
+    background-color: var(--color-white);
+    height: 68px;
+  }
+  .bxs-plane-alt-1-group,
+  .home-parent {
+    position: absolute;
+    top: 22px;
+    left: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-9xs);
+    font-size: var(--font-size-lg);
+    color: var(--color-gray-100);
+  }
+  .home-parent {
+    top: 24px;
+    left: 491px;
+    align-items: flex-start;
+    gap: var(--gap-29xl);
+    font-size: var(--font-size-base);
+    color: var(--gray-1);
+  }
+  .product-detail-inner {
+    position: absolute;
+    top: 68px;
+    left: 0;
+    background-color: var(--gray-1);
+    width: 1440px;
+    height: 500px;
+  }
+  .product-detail-child1,
+  .product-detail-child2,
+  .product-detail-child3,
+  .rectangle-div {
+    position: absolute;
+    top: 92px;
+    left: 100px;
+    border-radius: var(--br-8xs);
+    background-color: var(--gray-2);
+    width: 820px;
+    height: 452px;
+  }
+  .product-detail-child1,
+  .product-detail-child2,
+  .product-detail-child3 {
+    left: 940px;
+    width: 400px;
+    height: 218px;
+  }
+  .product-detail-child2,
+  .product-detail-child3 {
+    top: 326px;
+  }
+  .product-detail-child3 {
+    top: 656px;
+    border-radius: var(--br-7xs);
+    background-color: var(--gray-5);
+    height: 240px;
+  }
+  .lakeside-motel-warefront {
+    position: absolute;
+    top: 656px;
+    left: 100px;
+    font-size: var(--font-size-13xl);
+    letter-spacing: 0.01em;
+    font-weight: 600;
+    color: var(--color-gray-200);
+    display: flex;
+    align-items: center;
+    width: 820px;
+    height: 32px;
+  }
+  .location-1-icon {
+    position: absolute;
+    top: 732px;
+    left: 100px;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+  }
+  .lorem-ipsum-road,
+  .reviews {
+    position: absolute;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .lorem-ipsum-road {
+    top: 732px;
+    left: 126px;
+    color: var(--gray-1);
+    display: inline-block;
+    width: 370px;
+    height: 21px;
+  }
+  .reviews {
+    top: 0;
+    left: 94px;
+  }
+  .group-item,
+  .reviews-parent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 82px;
+    height: 20px;
+  }
+  .reviews-parent {
+    top: 700px;
+    left: 100px;
+    width: 214px;
+  }
+  .product-detail-child4,
+  .product-detail-child5,
+  .product-detail-child6,
+  .product-detail-child7 {
+    position: absolute;
+    top: 784px;
+    left: 100px;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-white);
+    width: 810px;
+    height: 508px;
+  }
+  .product-detail-child5,
+  .product-detail-child6,
+  .product-detail-child7 {
+    top: 1468px;
+    width: 400px;
+    height: 340px;
+  }
+  .product-detail-child6,
+  .product-detail-child7 {
+    left: 520px;
+    height: 432px;
+  }
+  .product-detail-child7 {
+    left: 940px;
+  }
+  .explore-the-area,
+  .overview1,
+  .top-facilities {
+    position: absolute;
+    top: 1117px;
+    left: 130px;
+    font-size: var(--font-size-lg);
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    color: var(--color-gray-300);
+  }
+  .explore-the-area,
+  .overview1 {
+    top: 808px;
+  }
+  .explore-the-area {
+    top: 931px;
+    left: 940px;
+  }
+  .free-wifi {
+    position: absolute;
+    top: 1162px;
+    left: 164px;
+    font-size: var(--font-size-mini);
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .wind-1-icon {
+    position: absolute;
+    top: 1196px;
+    left: 130px;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .air-conditioning {
+    position: absolute;
+    top: 1196px;
+    left: 164px;
+    font-size: var(--font-size-mini);
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .car-1-icon {
+    position: absolute;
+    top: 1230px;
+    left: 130px;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .parking-available {
+    position: absolute;
+    top: 1230px;
+    left: 164px;
+    font-size: var(--font-size-mini);
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .bag-tick-2-1-icon {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .business-services {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .bag-tick-2-1-parent,
+  .lifebuoy-1-parent,
+  .like-1-1-parent {
+    position: absolute;
+    top: 1162px;
+    left: 388px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-xs);
+    font-size: var(--font-size-mini);
+  }
+  .lifebuoy-1-parent,
+  .like-1-1-parent {
+    top: 1196px;
+  }
+  .like-1-1-parent {
+    top: 1230px;
+  }
+  .bag-tick-2-1-group,
+  .frame-parent1,
+  .frame-parent2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-3xs);
+  }
+  .frame-parent1,
+  .frame-parent2 {
+    position: absolute;
+    top: 1728px;
+    left: 540px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .frame-parent2 {
+    left: 960px;
+  }
+  .home-wifi-1-icon {
+    position: absolute;
+    top: 1162px;
+    left: 130px;
+    width: 22px;
+    height: 22px;
+    overflow: hidden;
+  }
+  .vector-icon {
+    position: absolute;
+    top: 1090.5px;
+    left: 100px;
+    width: 810px;
+    height: 1px;
+  }
+  .featuring-free-wifi {
+    margin: 0;
+  }
+  .featuring-free-wifi-container {
+    position: absolute;
+    top: 849px;
+    left: 130px;
+    font-size: var(--font-size-base);
+    letter-spacing: 0.02em;
+    line-height: 140%;
+    display: inline-block;
+    width: 740px;
+  }
+  .bxs-plane-alt-2-icon {
+    position: relative;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    flex-shrink: 0;
+  }
+  .hotel-penselvenyia,
+  .min-drive {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .hotel-penselvenyia {
+    flex: 1;
+  }
+  .min-drive {
+    text-align: right;
+  }
+  .bxs-plane-alt-2-parent,
+  .frame-parent3 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .bxs-plane-alt-2-parent {
+    width: 400px;
+    flex-direction: row;
+    gap: var(--gap-5xs);
+  }
+  .frame-parent3 {
+    position: absolute;
+    top: 974px;
+    left: 940px;
+    flex-direction: column;
+    gap: var(--gap-xs);
+  }
+  .product-detail-child8 {
+    position: absolute;
+    top: 1388px;
+    left: 100px;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-white);
+    width: 1240px;
+    height: 64px;
+  }
+  .calendar-1-parent {
+    position: absolute;
+    top: 1398px;
+    left: 112px;
+    border-radius: var(--br-9xs);
+    background-color: var(--gray-6);
+    width: 320px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+    box-sizing: border-box;
+    gap: var(--gap-3xs);
+    color: var(--gray-1);
+  }
+  .march-20-2022 {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+    display: inline-block;
+    width: 105px;
+    height: 21px;
+    flex-shrink: 0;
+  }
+  .calendar-2-parent {
+    position: absolute;
+    top: 1398px;
+    left: 444px;
+    border-radius: var(--br-9xs);
+    background-color: var(--gray-6);
+    width: 320px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+    box-sizing: border-box;
+    gap: var(--gap-3xs);
+    color: var(--gray-1);
+  }
+  .adult-1-room {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+    display: inline-block;
+    width: 96px;
+    height: 21px;
+    flex-shrink: 0;
+  }
+  .user-square-1-parent {
+    position: absolute;
+    top: 1398px;
+    left: 776px;
+    border-radius: var(--br-9xs);
+    background-color: var(--gray-6);
+    width: 320px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+    box-sizing: border-box;
+    gap: var(--gap-3xs);
+    color: var(--gray-1);
+  }
+  .check-availability {
+    position: relative;
+    letter-spacing: 0.02em;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  .check-availability-wrapper,
+  .reserve-suite-container,
+  .reserve-suite-wrapper {
+    position: absolute;
+    top: 1398px;
+    left: 1108px;
+    border-radius: var(--br-7xs);
+    background-color: var(--blue-1);
+    width: 220px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-xs) var(--padding-lg);
+    box-sizing: border-box;
+    font-size: var(--font-size-mini);
+    color: var(--color-white);
+  }
+  .reserve-suite-container,
+  .reserve-suite-wrapper {
+    top: 1832px;
+    left: 540px;
+    width: 360px;
+  }
+  .reserve-suite-container {
+    left: 960px;
+  }
+  .available-rooms {
+    position: absolute;
+    top: 1332px;
+    left: 100px;
+    font-size: var(--font-size-5xl);
+    font-weight: 600;
+    color: var(--color-gray-300);
+    display: inline-block;
+    width: 504px;
+    height: 32px;
+  }
+  .product-detail-child10,
+  .product-detail-child9 {
+    position: absolute;
+    top: 1468px;
+    left: 520px;
+    border-radius: var(--br-7xs) var(--br-7xs) 0 0;
+    background-color: var(--gray-5);
+    width: 400px;
+    height: 200px;
+  }
+  .product-detail-child10 {
+    left: 940px;
+  }
+  .standard-twin-ben,
+  .standard-twin-ben1 {
+    position: absolute;
+    top: 1688px;
+    left: 540px;
+    font-size: var(--font-size-lg);
+    letter-spacing: 0.01em;
+    font-weight: 500;
+    color: var(--color-gray-200);
+    display: flex;
+    align-items: center;
+    width: 310px;
+    height: 22px;
+  }
+  .standard-twin-ben1 {
+    left: 960px;
+    width: 360px;
+  }
+  .ellipse-div {
+    position: absolute;
+    top: 12px;
+    left: 1296px;
+    border-radius: 50%;
+    background-color: var(--gray-4);
+    width: 44px;
+    height: 44px;
+  }
+  .notification-1-icon {
+    position: absolute;
+    top: 22px;
+    left: 1250px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .group-inner {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--gray-5);
+    width: 1240px;
+    height: 72px;
+  }
+  .learn-more {
+    color: var(--blue-1);
+  }
+  .check-the-latest-container {
+    position: absolute;
+    top: 25px;
+    left: 75px;
+    letter-spacing: 0.02em;
+    line-height: 140%;
+  }
+  .danger-1-icon {
+    position: absolute;
+    top: 20px;
+    left: 24px;
+    width: 32px;
+    height: 32px;
+    overflow: hidden;
+  }
+  .rectangle-parent {
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    width: 1240px;
+    height: 72px;
+    font-size: var(--font-size-base);
+    color: var(--gray-1);
+  }
+  .product-detail {
+    position: relative;
+    background-color: var(--color-whitesmoke-100);
+    width: 100%;
+    height: 2470px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-sm);
+    color: var(--gray-2);
+    font-family: var(--font-sf-pro-display);
+  }
+  .rectangle-div {
+    background-image: url(images/rectangleblock1.png) !important;
+  }
+
+  .product-detail-child1 {
+    background-image: url(images/lakeviewfront.png);
+}
+.product-detail-child2 {
+  background-image: url(images/lakeviewfornt12.png);
+}
+
+.product-detail-child3 {
+  background-image: url(images/lakeview13.png);
+}
+.product-detail-child10 {
+  background-image: url(images/lakeview13.png);
+}
+.product-detail-child9 {
+  background-image: url(images/lakeviewfront.png);
+}
+
+
+
+.product-detail-child5 {
+  background-image: url(images/travel13.png);
+    top: 1468px;
+    width: 400px;
+    height: 340px;
+}
+
+.check-availability a {
+  color: #fff;
+  text-decoration: none;
+}

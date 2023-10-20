@@ -1,0 +1,191 @@
+.register-step-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 68px;
+}
+.bxs-plane-alt-1-icon14 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.my-dream-place19 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.bxs-plane-alt-1-parent11 {
+  position: absolute;
+  top: 22px;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.register1 {
+  position: absolute;
+  top: 160px;
+  left: 519px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  text-align: center;
+  display: inline-block;
+  width: 401px;
+  height: 32px;
+}
+.register-step-1-item {
+  position: absolute;
+  top: 409.5px;
+  left: 519.5px;
+  border-top: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 401px;
+  height: 1px;
+}
+.email-address10 {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 140%;
+}
+.email-address-wrapper6 {
+  position: absolute;
+  top: 256px;
+  left: 520px;
+  border-radius: var(--br-9xs);
+  background-color: var(--gray-6);
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-2xs) var(--padding-xs) var(--padding-xs);
+  box-sizing: border-box;
+  color: var(--gray-6);
+}
+.continue-with-email {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.continue-with-email-wrapper {
+  position: absolute;
+  top: 330px;
+  left: 520px;
+  border-radius: var(--br-7xs);
+  background-color: var(--blue-1);
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-lg);
+  box-sizing: border-box;
+  color: var(--color-white);
+}
+.image-4-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+}
+.image-4-parent {
+  position: absolute;
+  top: 446px;
+  left: 520px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-lg);
+  gap: var(--gap-3xs);
+}
+.facebook-1-icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.facebook-1-parent {
+  position: absolute;
+  top: 502px;
+  left: 520px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslateblue);
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-lg);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+  color: var(--color-white);
+}
+.sign-in1 {
+  color: var(--blue-1);
+}
+.already-have-an-container,
+.email-address11 {
+  position: absolute;
+  left: 520px;
+  letter-spacing: 0.02em;
+}
+.already-have-an-container {
+  top: 606px;
+  font-size: var(--font-size-base);
+  text-align: center;
+  display: inline-block;
+  width: 400px;
+}
+.email-address11 {
+  top: 232px;
+  font-size: var(--font-size-sm);
+  line-height: 140%;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.or-use-one {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 18px;
+}
+.or-use-one-of-these-options-wrapper {
+  position: absolute;
+  top: 398px;
+  left: 621px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) var(--padding-base);
+  text-align: center;
+  font-size: var(--font-size-sm);
+}
+.register-step-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 970px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--gray-2);
+  font-family: var(--font-sf-pro-display);
+}
