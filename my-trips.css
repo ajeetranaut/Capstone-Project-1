@@ -1,0 +1,581 @@
+.about2,
+.company1 {
+  position: absolute;
+  left: 415px;
+  letter-spacing: 0.02em;
+}
+.company1 {
+  top: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.about2 {
+  top: 39px;
+}
+.bxs-plane-alt-1-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.my-dream-place3 {
+  position: relative;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+.bxs-plane-alt-1-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.your-next-goto1 {
+  position: absolute;
+  top: 30px;
+  left: 28px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+  color: var(--gray-2);
+  display: inline-block;
+  width: 197px;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 100px;
+  width: 225px;
+  height: 70px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.advertising1,
+.contact-us1,
+.jobs1,
+.newsroom1 {
+  position: absolute;
+  top: 66px;
+  left: 415px;
+  letter-spacing: 0.02em;
+}
+.advertising1,
+.contact-us1,
+.newsroom1 {
+  top: 93px;
+}
+.advertising1,
+.contact-us1 {
+  top: 120px;
+}
+.contact-us1 {
+  top: 147px;
+}
+.australia2,
+.privacy-policy1,
+.support1 {
+  position: absolute;
+  top: 39px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.privacy-policy1,
+.support1 {
+  left: 899px;
+}
+.support1 {
+  left: 1141px;
+}
+.cancel-your-bookings1,
+.new-zealand2,
+.terms-of-use1 {
+  position: absolute;
+  top: 66px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.cancel-your-bookings1,
+.terms-of-use1 {
+  left: 899px;
+}
+.cancel-your-bookings1 {
+  left: 1141px;
+}
+.acessibility1,
+.united-states-america1,
+.use-coupon1 {
+  position: absolute;
+  top: 93px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.acessibility1,
+.use-coupon1 {
+  left: 899px;
+}
+.use-coupon1 {
+  left: 1141px;
+}
+.greece2,
+.refund-policies1,
+.reward-system-policy1 {
+  position: absolute;
+  top: 120px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.refund-policies1,
+.reward-system-policy1 {
+  left: 899px;
+}
+.refund-policies1 {
+  left: 1141px;
+}
+.international-travel-documents1,
+.maldives1 {
+  position: absolute;
+  top: 147px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.international-travel-documents1 {
+  left: 1141px;
+}
+.explore1,
+.help1,
+.see-more1,
+.singapore1,
+.terms-and-policies1 {
+  position: absolute;
+  top: 174px;
+  left: 657px;
+  letter-spacing: 0.02em;
+}
+.explore1,
+.help1,
+.see-more1,
+.terms-and-policies1 {
+  top: 201px;
+  color: var(--blue-1);
+}
+.explore1,
+.help1,
+.terms-and-policies1 {
+  top: 0;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.help1,
+.terms-and-policies1 {
+  left: 899px;
+}
+.help1 {
+  left: 1141px;
+}
+.group-child {
+  position: absolute;
+  top: 278px;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 1440px;
+  height: 40px;
+}
+.copyright-1-icon1 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.my-dream-place4 {
+  position: relative;
+  line-height: 140%;
+}
+.copyright-1-group {
+  position: absolute;
+  top: 288px;
+  right: 205px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+}
+.company-parent,
+.my-trips-child {
+  position: absolute;
+  left: 0;
+  width: 1440px;
+}
+.company-parent {
+  top: 1421px;
+  height: 318px;
+  color: var(--gray-2);
+}
+.my-trips-child {
+  top: 0;
+  background-color: var(--color-white);
+  height: 68px;
+}
+.frame-div {
+  position: absolute;
+  top: 22px;
+  left: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-100);
+}
+.home1 {
+  position: relative;
+  letter-spacing: 0.02em;
+}
+.home-group {
+  position: absolute;
+  top: 24px;
+  left: 491px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+  font-size: var(--font-size-base);
+}
+.my-trips-item {
+  position: absolute;
+  top: 12px;
+  left: 1296px;
+  border-radius: 50%;
+  background-color: var(--gray-4);
+  width: 44px;
+  height: 44px;
+}
+.notification-1-icon {
+  position: absolute;
+  top: 22px;
+  left: 1250px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.my-trips2 {
+  position: absolute;
+  top: 128px;
+  left: 205px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.01em;
+  font-weight: 600;
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 820px;
+  height: 32px;
+}
+.my-trips-child1,
+.my-trips-inner {
+  position: absolute;
+  border-radius: var(--br-8xs);
+}
+.my-trips-inner {
+  top: 188px;
+  left: 205px;
+  background-color: var(--color-white);
+  border: 1px solid var(--gray-5);
+  box-sizing: border-box;
+  width: 1030px;
+  height: 240px;
+}
+.my-trips-child1 {
+  top: 208px;
+  left: 225px;
+  background-color: var(--gray-5);
+  width: 285px;
+  height: 200px;
+}
+.div,
+.div1,
+.lakeside-motel-warefront1 {
+  position: absolute;
+  letter-spacing: 0.01em;
+  font-weight: 500;
+}
+.lakeside-motel-warefront1 {
+  top: 212px;
+  left: 534px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-200);
+  display: flex;
+  align-items: center;
+  width: 380px;
+  height: 32px;
+}
+.div,
+.div1 {
+  text-align: right;
+}
+.div {
+  top: 302px;
+  right: 229px;
+  font-size: var(--font-size-xl);
+}
+.div1 {
+  top: 306px;
+  right: 301px;
+  text-decoration: line-through;
+  color: var(--red);
+}
+.includes-taxes-and {
+  top: 332px;
+  right: 229px;
+  font-weight: 300;
+  text-align: right;
+}
+.includes-taxes-and,
+.reviews,
+.room-2-days {
+  position: absolute;
+  letter-spacing: 0.02em;
+}
+.room-2-days {
+  top: 279px;
+  right: 229px;
+  font-weight: 300;
+  text-align: right;
+}
+.reviews {
+  top: 251px;
+  left: 628px;
+  line-height: 140%;
+  color: var(--gray-2);
+}
+.view-trip-details {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.view-trip-details-wrapper {
+  position: absolute;
+  top: 365px;
+  left: 1068px;
+  border-radius: var(--br-7xs);
+  background-color: var(--blue-1);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs) var(--padding-lg);
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.group-icon {
+  position: absolute;
+  top: 251px;
+  left: 534px;
+  width: 82px;
+  height: 20px;
+}
+.non-refundable {
+  color: var(--red);
+}
+.check-in-sunday,
+.non-refundable {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 20px;
+}
+.non-refundable-parent {
+  position: absolute;
+  top: 301px;
+  left: 534px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  color: var(--gray-2);
+}
+.my-trips-child2 {
+  position: absolute;
+  top: 1269px;
+  left: 100px;
+  border-radius: var(--br-5xs);
+  background-color: var(--gray-5);
+  width: 1240px;
+  height: 72px;
+}
+.learn-more1 {
+  color: var(--blue-1);
+}
+.check-the-latest-container1 {
+  position: absolute;
+  top: 1294px;
+  left: 175px;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.02em;
+  line-height: 140%;
+}
+.danger-1-icon1 {
+  position: absolute;
+  top: 1289px;
+  left: 124px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.based-on-your {
+  position: absolute;
+  top: 788px;
+  left: 100px;
+  font-size: var(--font-size-9xl);
+  font-weight: 600;
+  color: var(--color-gray-300);
+  display: inline-block;
+  width: 504px;
+  height: 32px;
+}
+.my-trips-child3 {
+  position: absolute;
+  top: 844px;
+  left: 100px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 295px;
+  height: 300px;
+}
+.australia3,
+.properties8 {
+  position: relative;
+  display: inline-block;
+  width: 295px;
+}
+.australia3 {
+  font-weight: 600;
+}
+.properties8 {
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.02em;
+}
+.australia-group {
+  position: absolute;
+  top: 1158px;
+  left: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.my-trips-child4 {
+  position: absolute;
+  top: 844px;
+  left: 415px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 295px;
+  height: 300px;
+}
+.japan-group {
+  position: absolute;
+  top: 1158px;
+  left: 415px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.my-trips-child5 {
+  position: absolute;
+  top: 844px;
+  left: 730px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 295px;
+  height: 300px;
+}
+.new-zealand3 {
+  position: relative;
+  font-weight: 600;
+}
+.new-zealand-group {
+  position: absolute;
+  top: 1158px;
+  left: 730px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.my-trips-child6 {
+  position: absolute;
+  top: 844px;
+  left: 1045px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  width: 295px;
+  height: 300px;
+}
+.greece-group {
+  position: absolute;
+  top: 1158px;
+  left: 1045px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-7xs);
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-300);
+}
+.my-trips1 {
+  position: relative;
+  background-color: var(--color-whitesmoke-100);
+  width: 100%;
+  height: 1739px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--gray-1);
+  font-family: var(--font-sf-pro-display);
+}
+
+/* 18-1023 */
+
+.my-trips-child1 {
+  background-image: url(images/lakeview.jpg);
+}
+
+.my-trips-child3 {
+    background-image: url(images/australia2.png);
+    
+}
+
+.my-trips-child4 {
+  background-image: url(images/japan2.png);
+  
+}
+.my-trips-child5 {
+  background-image: url(images/newzealand12.png);
+ 
+}
+.my-trips-child6 {
+  background-image: url(images/greece12.png);
+ 
+}

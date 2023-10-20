@@ -1,0 +1,7 @@
+.start-here {
+  position: relative;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-sf-pro-display);
+  color: var(--color-white);
+  text-align: center;
+}
